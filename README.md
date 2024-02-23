@@ -1,7 +1,7 @@
 <!--...........................................INTRODUCCIÓN A LA APLICACIÓN...................................................-->
 <div align="center" >
   <a>
-<img width="50%"  src="https://github.com/No-Country/c16-132-n-nocode/blob/main/esthetic_school/assets/logo%20NC%201%20def.png" alt=visual introductoria >
+<img width="50%"  src="https://github.com/No-Country/c16-132-n-nocode/blob/main/esthetic_school/assets/logo_grande.png" alt=visual introductoria >
 </a>
 </div>
  
