@@ -37,6 +37,11 @@
 
  <!--..............................................MOCKUPS.......................................................-->
  <h2>Presentación del Sitio</h2>
+ 
+<div>
+<img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/2.png" width="320" height="460">
+<img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/3.png" width="320" height="460">
+</div>
 
 
  
@@ -93,6 +98,12 @@
 <div>
   <h2>Tecnologías usadas</h2>
   <h4>Diseño UX</h4>
+
+ ![optimalworkshop](https://img.shields.io/badge/optimalworkshop-yellow)
+ ![whinsical](https://img.shields.io/badge/whimsical-violet)
+ ![mentimeter](https://img.shields.io/badge/mentimeter-skyblue)
+ 
+  
   <h4>Diseño UI</h4>
 
   ![https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
@@ -124,22 +135,29 @@
     <h2>Nuestro equipo</h2>
   </div>
 
-![]()
-![]()
-![]()
-![]()
-![]()
+| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1ile.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1nico.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1erick.jpg" width=200>|
+|:-:|:-:|:-:|
+| **Ileana Nieto**| **Nicolas Jaimes**| **Erick Reinoso** |
+| <a href="https://github.com/IleanaNieto"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ileana-nieto"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/NicolasJaimes14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jaimesnicolas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Kcireog"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso-409379282/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
 
   
   <!--........................................................CÓMO NOS ORGANIZAMOS.......................................................-->
   <div>
-  <h2>Plataformas en las cuales nos organizamos</h2>
-  
- [SLACK No Country](https://app.slack.com/client/T02KS88FB0E/C02MBJBE528) <br>
- [Discord No Country](https://discord.gg/PwfZ2ZEq) <br>
- [Trello](https://trello.com/es) <br>
- [Figma](https://www.figma.com) <br>
- [Whatsapp](https://web.whatsapp.com) <br>
+  <h2>Cómo nos organizamos</h2>
+
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/NyrMSqX4) [![](https://img.shields.io/badge/Trello-095ED8?style=for-the-badge&logo=Trello&logoColor=fff)](https://trello.com/) [![](https://img.shields.io/badge/Slack-%23ED8B00?style=for-the-badge&logo=Slack&logoColor=fff)](https://slack.com/) 
+
 
  </div>
+
+
+
+ <!--..........................................................AGRADECIMIENTOS..........................................................-->
+ <h2>Queremos agradecer a:</h2>
+
+ <div>
+  <a href="https://www.nocountry.tech/" target="_blank">
+    <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
+  </a>
+</div>
