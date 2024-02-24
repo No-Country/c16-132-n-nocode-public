@@ -137,8 +137,13 @@
 
 | <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1ile.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1nico.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1erick.jpg" width=200>|
 |:-:|:-:|:-:|
-| **Ileana Nieto**| **Nicolas Jaimes**| **Erick Reinoso** |
-| <a href="https://github.com/IleanaNieto"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/ileana-nieto"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/NicolasJaimes14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jaimesnicolas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Kcireog"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso-409379282/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+| **Ileana Nieto - UI DESIGNER**| **Nicolas Jaimes - QA**| **Erick Reinoso - BACK END** |
+| <a href="https://github.com/IleanaNieto"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/ileana-nieto"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/NicolasJaimes14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jaimesnicolas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Kcireog"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso-409379282/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+
+| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20susan.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20franco.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/1eli.jpg" width=200>|
+|:-:|:-:|:-:|
+| **Susana Sandoval - QA**| **Franco Garcia - FRONT END**| **Elisa Luna - UX DESIGNER** |
+| <a href="https://github.com/Susana-Sandoval"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/mariasusanasandoval/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/garciaFranco31"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/franco-garcia-carril-70a418223/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/elibelu"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/elilucero"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
 
   
@@ -161,3 +166,15 @@
     <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
   </a>
 </div>
+
+
+
+ <!--..........................................................CONTACTO..........................................................-->
+ <h2>Si tienes dudas sobre este repositorio puedes escribirnos a:</h2>
+
+ </a>
+ <a href="mailto:esportsmelg@gmail.com">
+ 
+ ![Static Badge](https://icongr.am/entypo/email.svg?size=128&color=currentColor)
+
+  </a>
