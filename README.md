@@ -61,7 +61,7 @@
   <li>Mensajería y conexión entre usuarios y profesores.</li>
   </ul>
 
-<h4>Información en detalle</h4>
+<h4>Información en detalle de Research, Estructura, Wireframes y Diseño del MVP</h4>
  <div>
     <a href="https://drive.google.com/file/d/1kto3MZGrPExVZY12_FCBV4NXUvG46MVs/view?usp=sharing" target="_blank">
  
@@ -72,35 +72,9 @@
 
 
 
-  <!--.................................................DOCUMENTACIÓN...........................................................-->
- <h2>Documentación</h2>
-
-
- 
- <!--................................................INSTALACIÓN Y USO.......................................................-->
- <h2>Pasos para su instalación y uso</h2>
-
- <div align='center'>
-   
-  <a href="https://www.youtube.com/watch?v=fRCERRHWUSY" target="_blank">
- 
- ![Static Badge](https://img.shields.io/badge/VER_API-blue)
-
-  </a>
-    
-  <a href="mailto:esportsmelg@gmail.com">
- 
- ![Static Badge](https://img.shields.io/badge/INFORMAR_ERROR-red)
-
-  </a>
- </div>
-
-
-
 <!--..............................................TECNOLOGÍAS DE CADA DEPARTAMENTO...................................................-->
 <div>
-  <h2>Tecnologías usadas</h2>
-  <h4>Diseño UX</h4>
+  <h4>Tecnologías usadas en Diseño UX</h4>
 
  <a href="https://app.optimalworkshop.com/optimalsort/hkzkaoav/2lmnjd31/shared-results/bne2t094hjrtjbm70phl35d8k7azqqw8#/t/results/overview" target="_blank">
  
@@ -121,25 +95,34 @@
   </a>
  
   
-  <h4>Diseño UI</h4>
+  <h4>Tecnologías usadas en Diseño UI</h4>
 
  <a href="https://www.figma.com/file/EgokEPLBIN8zIKbIAjwmnk/Esthetic-School%2F-No-Country?type=design&node-id=121%3A181&mode=design&t=k22NNXE2GlK8vODs-1" target="_blank">
  
-  ![https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
+  ![figma](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
+
+  </a>
+
+  <a  href="https://www.adobe.com/ar/products/photoshop.html" target="_blank">
+
+  ![photoshop](https://img.shields.io/badge/Photoshop-31a8ff?logo=photoshop)
 
   </a>
   
-  <h4>Front End</h4>
+  
+  <h4>Tecnologías usadas en Front End</h4>
 
   ![markdown](https://img.shields.io/badge/markdown-blue?logo=markdown)
   
   ![js](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=white)
 
-  <h4>Back End</h4>
+
+  <h4>Tecnologías usadas en Back End</h4>
 
   ![js](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=white)
+
   
-  <h4>QA</h4>
+  <h4>Tecnologías usadas en QA</h4>
 
   ![jira](https://img.shields.io/badge/Jira-%230052CC?logo=jira&logoColor=white)
   
@@ -150,6 +133,31 @@
 
  <!--............................................QUÉ TAREAS PERMITE CADA TECNOLOGÍA....................................................-->
  <h2>Qué permite hacer en el sitio web cada tecnología</h2>
+
+
+
+  <!--.................................................DOCUMENTACIÓN...........................................................-->
+ <h2>Documentación</h2>
+
+
+
+ <!--................................................INSTALACIÓN Y USO.......................................................-->
+ <h2>Pasos para su instalación y uso</h2>
+
+ <div align='center'>
+   
+  <a href="https://www.youtube.com/watch?v=fRCERRHWUSY" target="_blank">
+ 
+ ![Static Badge](https://img.shields.io/badge/VER_API-blue)
+
+  </a>
+    
+  <a href="mailto:esportsmelg@gmail.com">
+ 
+ ![Static Badge](https://img.shields.io/badge/INFORMAR_ERROR-red)
+
+  </a>
+ </div>
 
 
 
@@ -165,7 +173,7 @@
 
 | <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20susana.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20franco.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20eli.png" width=200>|
 |:-:|:-:|:-:|
-| **Susana Sandoval - QA**| **Franco Garcia - FRONT END**| **Elisa Luna - UX DESIGNER** |
+| **Susana Sandoval - QA**| **Franco Garcia - FRONT END**| **Elisa - UX y README DESIGNER** |
 | <a href="https://github.com/Susana-Sandoval"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mariasusanasandoval/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/garciaFranco31"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/franco-garcia-carril-70a418223/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/elibelu"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/elilucero"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
 
@@ -176,8 +184,15 @@
 
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/NyrMSqX4) [![](https://img.shields.io/badge/Trello-095ED8?style=for-the-badge&logo=Trello&logoColor=fff)](https://trello.com/) [![](https://img.shields.io/badge/Slack-%23ED8B00?style=for-the-badge&logo=Slack&logoColor=fff)](https://slack.com/) [![](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=Whatsapp&logoColor=fff)](https://www.whatsapp.com/)
 
-
  </div>
+
+ En nuestro equipo fuimos conociéndonos y nos pusimos de acuerdo en utilizar la metodología **ágil y scrum**. 
+ Dividimos las tareas en sprints:
+
+ - En la semana cero hicimos dos votaciones creamos un MVP siendo del tipo EDTECH, rama estética.
+ - En la semana uno fue preparación del producto realizando investigación de usuario, competencia, funcionalidades y su diseño en Figma. También preparación del repositorio en el Github de No Country. Nuestro cliente fue observando el proceso mediante una presentación.
+ - En la semana dos se inició su diseño front end estático y realización del documento README en Github.
+ - En la semana tres se inició la interacción de la página con el  usuario introduciendo tecnología back end. También se introducen las pruebas.
 
 
 
