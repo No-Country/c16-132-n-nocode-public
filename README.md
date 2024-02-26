@@ -114,17 +114,17 @@
 
   ![markdown](https://img.shields.io/badge/markdown-blue?logo=markdown)
   
-  ![js](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=white)
+  ![phyton](https://img.shields.io/badge/pyhton-%23F7DF1E?logo=python&logoColor=blue)
 
 
   <h4>Tecnologías usadas en Back End</h4>
 
-  ![js](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=white)
+  ![phyton](https://img.shields.io/badge/pyhton-%23F7DF1E?logo=python&logoColor=blue)
 
   
   <h4>Tecnologías usadas en QA</h4>
 
-  ![jira](https://img.shields.io/badge/Jira-%230052CC?logo=jira&logoColor=white)
+  ![testmonitor](https://img.shields.io/badge/testmonitor-green?logo=testmonitor&logoColor=black)
   
 </div>
   <br>
@@ -166,7 +166,7 @@
     <h2>Nuestro equipo</h2>
   </div>
 
-| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20ile.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20nico.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20erick.jpg" width=200>|
+| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20ile.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20nico.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20erick1.jpeg" width=200>|
 |:-:|:-:|:-:|
 | **Ileana Nieto - UI DESIGNER**| **Nicolas Jaimes - QA**| **Erick Reinoso - BACK END** |
 | <a href="https://github.com/IleanaNieto"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/ileana-nieto"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/NicolasJaimes14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jaimesnicolas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Kcireog"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso-409379282/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
