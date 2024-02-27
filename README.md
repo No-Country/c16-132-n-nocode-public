@@ -25,12 +25,11 @@
 </div>
 
  <div align='center'>
-    <a href="https://youtu.be/ACD2TNwnZz8" target="_blank">
+  <a href="https://youtu.be/OeNcyf8Lvv4" target="_blank">
  
  ![ver promocional](https://img.shields.io/badge/VER%20PROMOCIONAL-blue)
  
  </a>
-
  </div>
 
 
@@ -52,6 +51,12 @@
  **Proyecto para No Country Febrero 2024**
  > Grupo: c16-132-n-nocode
 
+  <a href="https://youtu.be/ACD2TNwnZz8" target="_blank">
+ 
+ ![ver demo](https://img.shields.io/badge/VER%20DEMO-blue)
+ 
+ </a>
+
 <h4>Características generales</h4>
   <ul>
   <li>Registro de usuarios y autenticación.</li>
@@ -63,7 +68,7 @@
 
 <h4>Información en detalle de Research, Estructura, Wireframes y Diseño del MVP</h4>
  <div>
-    <a href="https://drive.google.com/file/d/1QsgfI_xMlh3MXLsYvJ4bVvRvxGlDtGPR/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1QsgfI_xMlh3MXLsYvJ4bVvRvxGlDtGPR/view?usp=sharing" target="_blank">
  
  ![Static Badge](https://img.shields.io/badge/VER_PRESENTACI%C3%93N-blue)
 
@@ -78,19 +83,19 @@
 
  <a href="https://app.optimalworkshop.com/optimalsort/hkzkaoav/2lmnjd31/shared-results/bne2t094hjrtjbm70phl35d8k7azqqw8#/t/results/overview" target="_blank">
  
- ![optimalworkshop](https://img.shields.io/badge/optimalworkshop-yellow)
+ ![optimalworkshop](https://img.shields.io/badge/OptimalWorkshop-fdd604)
 
   </a>
 
  <a href="https://whimsical.com/mapa-del-sitio-RMVWqSwkWjwqNweHcyyAT1" target="_blank">
  
- ![whinsical](https://img.shields.io/badge/whimsical-violet)
+ ![whinsical](https://img.shields.io/badge/Whimsical-8313dd)
 
   </a>
 
  <a href="https://www.mentimeter.com/app/presentation/ale8fcgewbzpey74jan1zyxxefbhpv5p" target="_blank">
  
- ![mentimeter](https://img.shields.io/badge/mentimeter-skyblue)
+ ![mentimeter](https://img.shields.io/badge/Mentimeter-206cfd)
 
   </a>
  
@@ -112,22 +117,43 @@
   
   <h4>Tecnologías usadas en Front End</h4>
 
+  <a  href="https://markdown.es/" target="_blank">
+
   ![markdown](https://img.shields.io/badge/markdown-blue?logo=markdown)
+
+  </a>
+
+   <a  href="https://developer.mozilla.org/es/docs/Glossary/HTML5" target="_blank">
+
+  ![HTML5](https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=black)
+
+  </a>
+
+   <a  href="https://www.python.org/" target="_blank">
   
   ![phyton](https://img.shields.io/badge/pyhton-%23F7DF1E?logo=python&logoColor=blue)
+
+  </a>
 
 
   <h4>Tecnologías usadas en Back End</h4>
 
+   <a  href="https://www.python.org/" target="_blank">
+
   ![phyton](https://img.shields.io/badge/pyhton-%23F7DF1E?logo=python&logoColor=blue)
+
+  </a>
 
   
   <h4>Tecnologías usadas en QA</h4>
 
-  ![testmonitor](https://img.shields.io/badge/testmonitor-green?logo=testmonitor&logoColor=black)
+   <a  href="https://www.testmonitor.com/" target="_blank">
+
+  ![testmonitor](https://img.shields.io/badge/TestMonitor-7fb11a)
+
+  </a>
   
 </div>
-  <br>
 
 
 
@@ -136,22 +162,10 @@
 
 
 
-  <!--.................................................DOCUMENTACIÓN...........................................................-->
- <h2>Documentación</h2>
-
-
-
  <!--................................................INSTALACIÓN Y USO.......................................................-->
  <h2>Pasos para su instalación y uso</h2>
 
- <div align='center'>
-   
-  <a href="https://www.youtube.com/watch?v=fRCERRHWUSY" target="_blank">
- 
- ![Static Badge](https://img.shields.io/badge/VER_API-blue)
-
-  </a>
-    
+ <div>
   <a href="mailto:esportsmelg@gmail.com">
  
  ![Static Badge](https://img.shields.io/badge/INFORMAR_ERROR-red)
@@ -164,17 +178,18 @@
   <!--............................................................EQUIPO...............................................................-->
   <div>
     <h2>Nuestro equipo</h2>
-  </div>
 
-| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20ile.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20nico.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20erick1.jpeg" width=200>|
-|:-:|:-:|:-:|
-| **Ileana Nieto - UI DESIGNER**| **Nicolas Jaimes - QA**| **Erick Reinoso - BACK END** |
+| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20ile.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20nico.jpeg" width=200>| 
+|:-:|:-:|
+| **Ileana Nieto - UI DESIGNER**| **Nicolas Jaimes - QA**| 
 | <a href="https://github.com/IleanaNieto"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/ileana-nieto"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/NicolasJaimes14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jaimesnicolas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Kcireog"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso-409379282/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
 | <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20susana.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20franco.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20eli.png" width=200>|
 |:-:|:-:|:-:|
 | **Susana Sandoval - QA**| **Franco Garcia - FRONT END**| **Elisa - UX y README DESIGNER** |
 | <a href="https://github.com/Susana-Sandoval"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mariasusanasandoval/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/garciaFranco31"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/franco-garcia-carril-70a418223/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/elibelu"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/elilucero"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
+
+</div>
 
 
   
