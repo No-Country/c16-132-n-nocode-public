@@ -186,7 +186,7 @@
 
 | <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20susana.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20franco.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20eli.png" width=200>|
 |:-:|:-:|:-:|
-| **Susana Sandoval - QA**| **Franco Garcia - FRONT END**| **Elisa - UX y README DESIGNER** |
+| **Susana Sandoval - QA**| **Franco Garcia - FRONT/BACK END**| **Elisa - UX y README DESIGNER** |
 | <a href="https://github.com/Susana-Sandoval"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mariasusanasandoval/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/garciaFranco31"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/franco-garcia-carril-70a418223/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/elibelu"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/elilucero"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
 </div>
