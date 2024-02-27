@@ -25,9 +25,9 @@
 </div>
 
  <div align='center'>
-    <a href="https://www.youtube.com/watch?v=fRCERRHWUSY" target="_blank">
+    <a href="https://youtu.be/ACD2TNwnZz8" target="_blank">
  
- ![Static Badge](https://img.shields.io/badge/VER_DEMO-blue)
+ ![ver promocional](https://img.shields.io/badge/VER%20PROMOCIONAL-blue)
  
  </a>
 
