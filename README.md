@@ -63,7 +63,7 @@
 
 <h4>Información en detalle de Research, Estructura, Wireframes y Diseño del MVP</h4>
  <div>
-    <a href="https://drive.google.com/file/d/1kto3MZGrPExVZY12_FCBV4NXUvG46MVs/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1QsgfI_xMlh3MXLsYvJ4bVvRvxGlDtGPR/view?usp=sharing" target="_blank">
  
  ![Static Badge](https://img.shields.io/badge/VER_PRESENTACI%C3%93N-blue)
 
