@@ -1,7 +1,7 @@
 <!--...........................................INTRODUCCIÓN A LA APLICACIÓN...................................................-->
 <div align="center" >
   <a>
-<img width="50%"  src="https://github.com/No-Country/c16-132-n-nocode/blob/main/esthetic_school/assets/logo_grande.png" alt=visual introductoria >
+<img width="25%"  src="https://github.com/No-Country/c16-132-n-nocode/blob/main/esthetic_school/assets/logo_grande.png" alt=visual introductoria >
 </a>
 </div>
  
@@ -50,8 +50,9 @@
  
  **Proyecto para No Country Febrero 2024**
  > Grupo: c16-132-n-nocode
+ > DEMO EN CONSTRUCCIÓN
 
-  <a href="https://youtu.be/ACD2TNwnZz8" target="_blank">
+  <a href="https://youtu.be/OeNcyf8Lvv4" target="_blank">
  
  ![ver demo](https://img.shields.io/badge/VER%20DEMO-blue)
  
@@ -68,7 +69,7 @@
 
 <h4>Información en detalle de Research, Estructura, Wireframes y Diseño del MVP</h4>
  <div>
-  <a href="https://drive.google.com/file/d/1QsgfI_xMlh3MXLsYvJ4bVvRvxGlDtGPR/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1ubj0uoTJ_i5LVNMAK-h7VsNg9fKiNAC3/view?usp=sharing" target="_blank">
  
  ![Static Badge](https://img.shields.io/badge/VER_PRESENTACI%C3%93N-blue)
 
@@ -160,10 +161,14 @@
  <!--............................................QUÉ TAREAS PERMITE CADA TECNOLOGÍA....................................................-->
  <h2>Qué permite hacer en el sitio web cada tecnología</h2>
 
+ EN CONSTRUCCIÓN
+
 
 
  <!--................................................INSTALACIÓN Y USO.......................................................-->
  <h2>Pasos para su instalación y uso</h2>
+
+ EN CONSTRUCCIÓN
 
  <div>
   <a href="mailto:esportsmelg@gmail.com">
@@ -184,7 +189,7 @@
 | **Ileana Nieto - UI DESIGNER**| **Nicolas Jaimes - QA**| 
 | <a href="https://github.com/IleanaNieto"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/ileana-nieto"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/NicolasJaimes14"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jaimesnicolas/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/Kcireog"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/erick-santiago-rodriguez-reinoso-409379282/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 
-| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20susana.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20franco.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20eli.png" width=200>|
+| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20susana.jpeg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20franc.jpg" width=200>| <img src="https://github.com/elibelu/c16-132-n-nocode/blob/main/img/a%20eli.png" width=200>|
 |:-:|:-:|:-:|
 | **Susana Sandoval - QA**| **Franco Garcia - FRONT/BACK END**| **Elisa - UX y README DESIGNER** |
 | <a href="https://github.com/Susana-Sandoval"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/mariasusanasandoval/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/garciaFranco31"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/franco-garcia-carril-70a418223/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/elibelu"><img src="https://img.shields.io/badge/Behance-%2320232a.svg?style=for-the-badge&logo=Behance&logoColor=%%2361DAFB"/></a> <a href="https://www.linkedin.com/in/elilucero"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
