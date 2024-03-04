@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Curso Laminado de Cejas - 1ra Parte",
+        "image": "laminado_cejas1.jpg",
+        "price": "10",
+        "description": "description1"
+    },
+    {
+        "id": 2,
+        "name": "Curso Laminado de Cejas - 2ra Parte",
+        "image": "laminado_cejas2.jpg",
+        "price": "15",
+        "description": "description2"
+    },
+    {
+        "id": 3,
+        "name": "Curso Lashista - 1ra Parte",
+        "image": "lashista1.jpg",
+        "price": "20",
+        "description": "description3"
+    },
+    {
+        "id": 4,
+        "name": "Curso Lashista - 2da Parte",
+        "image": "lashista2.jpg",
+        "price": "12",
+        "description": "description4"
+    },
+    {
+        "id": 5,
+        "name": "Curso Manos - 1ra Parte",
+        "image": "manos1.jpg",
+        "price": "18",
+        "description": "description5"
+    },
+    {
+        "id": 6,
+        "name": "Curso Manos - 2da Parte",
+        "image": "manos2.jpg",
+        "price": "25",
+        "description": "description6"
+    },
+    {
+        "id": 7,
+        "name": "Curso Manos - 3ra Parte",
+        "image": "manos3.jpg",
+        "price": "30",
+        "description": "description7"
+    },
+    {
+        "id": 8,
+        "name": "Curso Maquillaje Artístico - 1ra Parte",
+        "image": "maqui_artistico1.jpg",
+        "price": "22",
+        "description": "description8"
+    },
+    {
+        "id": 9,
+        "name": "Curso Maquillaje Artístico - 2da Parte",
+        "image": "maqui_artistico2.jpg",
+        "price": "28",
+        "description": "description9"
+    },
+    {
+        "id": 10,
+        "name": "Curso Maquillaje Social - 1ra Parte",
+        "image": "maqui_social1.jpg",
+        "price": "35",
+        "description": "description10"
+    },
+    {
+        "id": 11,
+        "name": "Curso Maquillaje Social - 2da Parte",
+        "image": "maqui_social2.jpg",
+        "price": "40",
+        "description": "description11"
+    },
+    {
+        "id": 12,
+        "name": "Curso Maquillaje Social - 3ra Parte",
+        "image": "maqui_social3.jpg",
+        "price": "32",
+        "description": "description12"
+    },
+    {
+        "id": 13,
+        "name": "Curso Masajes con Elementos - 1ra Parte",
+        "image": "masajes_elementos1.jpg",
+        "price": "38",
+        "description": "description13"
+    },
+    {
+        "id": 14,
+        "name": "Curso Masajes con Elementos - 2da Parte",
+        "image": "masajes_elementos2.jpg",
+        "price": "45",
+        "description": "description14"
+    },
+    {
+        "id": 15,
+        "name": "Curso Masajes Orientales - 1ra Parte",
+        "image": "masajes_orientales1.jpg",
+        "price": "42",
+        "description": "description15"
+    },
+    {
+        "id": 16,
+        "name": "Curso Masajes Orientales - 2da Parte",
+        "image": "masajes_orientales2.jpg",
+        "price": "50",
+        "description": "description16"
+    },
+    {
+        "id": 17,
+        "name": "Curso Masajes Relajantes - 1ra Parte",
+        "image": "masajes_relajantes1.jpg",
+        "price": "55",
+        "description": "description17"
+    },
+    {
+        "id": 18,
+        "name": "Curso Masajes Relajantes - 2da Parte",
+        "image": "masajes_relajantes2.jpg",
+        "price": "52",
+        "description": "description18"
+    },
+    {
+        "id": 19,
+        "name": "Curso Técnicas de Spa - 1ra Parte",
+        "image": "tecnicas_spa1.jpg",
+        "price": "60",
+        "description": "description19"
+    },
+    {
+        "id": 20,
+        "name": "Curso Técnicas de Spa - 2da Parte",
+        "image": "tecnicas_spa2.jpg",
+        "price": "65",
+        "description": "description20"
+    }
+]
